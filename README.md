@@ -27,6 +27,14 @@ cd cpool-smart-contracts
 npm i
 ```
 
+## Testing
+
+### Run all tests (requires Node version >=8 for `async/await`, and will automatically run TestRPC in the background):
+
+```bash
+npm test
+```
+
 ## Maintainers
 * [@donbeave](https://github.com/donbeave)
 
