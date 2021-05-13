@@ -11,6 +11,22 @@
 # cpool-smart-contracts
 Smart contracts used for minting CPOOL tokens
 
+## Getting Started
+
+It integrates with [Truffle](https://github.com/ConsenSys/truffle), an Ethereum development environment. Please install Truffle.
+
+```sh
+npm install -g truffle
+
+```
+Clone OpenBazaar-SmartContracts
+
+```sh
+git clone git@github.com:clearpool-finance/cpool-smart-contracts.git
+cd cpool-smart-contracts
+npm i
+```
+
 ## Maintainers
 * [@donbeave](https://github.com/donbeave)
 
