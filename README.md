@@ -42,8 +42,6 @@ npm test
 
 cpool-smart-contracts's source code is [licensed under the MIT License](./LICENSE), and contributions are welcome.
 
-Thank you!
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
